@@ -1,4 +1,4 @@
-## using-chrome-headless
+## using-chrome-headless [using-headless-chrome-as-an-automated-screenshot-tool](https://medium.com/@dschnr/using-headless-chrome-as-an-automated-screenshot-tool-4b07dffba79a)
 使用chrome-headless自动化处理数据（记录一些参考点）
 
 ## 谷歌官方介绍文档，基本都全了，文档，资源等
@@ -8,7 +8,7 @@
 
 
 ## 工具集合,ide debug,api,文档等
-[link(https://github.com/ChromeDevTools/awesome-chrome-devtools#chrome-devtools-protocol)
+[link](https://github.com/ChromeDevTools/awesome-chrome-devtools#chrome-devtools-protocol)
 
 #
 ## chrome-remote-interface，底部有很多参考资源 [link](https://github.com/cyrus-and/chrome-remote-interface)
